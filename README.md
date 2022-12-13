@@ -19,9 +19,11 @@
 ### 1. Разработка пользовательского интерфейса
 
 - Главная страница
+
 ![Рис.1 - Главная страница](https://github.com/ElnurDzhalilov/lab2/blob/main/StartPage.png)
 
 - Главная страница с раскрытыми комментариями
+
 ![Рис.2 - Главная страница с раскрытыми комментариями](https://github.com/ElnurDzhalilov/lab2/blob/main/PageWithComments.png)
 
 
